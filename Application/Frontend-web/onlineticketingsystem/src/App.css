@@ -1,0 +1,128 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+.navBar{
+    width: 90%;
+    height: 90vh;
+    margin: 10px;
+    box-shadow: 2px 2px 4px #000000;
+}
+.icons{
+    font-size: 30px;
+}
+.icons:hover{
+    color: blue;
+}
+.cards{
+    margin: 30px;
+    border: 1px solid transparent;
+}
+.cards:hover{
+    box-shadow: 2px 2px 4px #000000;
+    cursor: pointer;
+}
+.lastCard{
+    margin-top: 150px;
+}
+.headerDetails{
+    text-align: right;
+}
+.userImage{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.tblCell{
+    border: 1px solid #000;
+    text-align: center;
+}
+.tbl{
+    width: 95%;
+}
+.selectText{
+    font-size: 20px;
+}
+.selectBox{
+    border: 1px solid transparent;
+    width: 100px;
+    text-align: right;
+    margin: 5px;
+    padding-right: 0px;
+}
+.div1st{
+    border:1px solid #000;
+    margin-right: 10px;
+}
+.div2nd{
+    border:1px solid #000;
+    margin-top: 10px;
+}
+.vehcileAdd{
+    background-color: rgb(216, 216, 216);
+    margin: 10px;
+    padding-left: 50px;
+    border-radius: 7%;
+    box-shadow: 5px 10px #888888;
+}
+.buttoRow{
+    margin: 10px;
+    margin-right: 80px;
+}
+.dashBody{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.rightRow{
+    text-align: right;
+}
+.graph{
+    background-image: url("./images/graph.PNG");
+    height: 200px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+}
+.sdeCard{
+    background-image: url("./images/img1.jpg");
+    background-size: cover;
+    border-radius: 27px;
+}
+.viewCard{
+    background-image: url("./images/crd1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 27px;
+}
+.viewCard2{
+    background-image: url("./images/crd2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 27px;
+}
+.crd3{
+    border-radius: 27px;
+    background-color: #edbaba;
+}
+.week{
+    border-radius: 20px;
+    background-color: #edf8f7;
+    text-align: center;
+}
+.selected{
+    border-radius: 27px;
+}
+.search{
+    border: 0;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.calender{
+    border: 1px solid black;
+    width: 15%;
+    text-align: center;
+    border-radius: 7px;
+    height: 35px;
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+}
